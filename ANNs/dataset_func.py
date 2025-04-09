@@ -5,7 +5,7 @@ import numpy as np
 import json
 
 
-def remap_u_from_sim_grid(sim_grid_path):
+def remap_u_from_sim_grid(sim_grid_path, resolution = None):
 
     params_path = os.path.join(sim_grid_path,'params.xlsx')
     sim_count = len(os.listdir(os.path.join(sim_grid_path,"results")))
@@ -33,7 +33,8 @@ def remap_u_from_sim_grid(sim_grid_path):
             elem_size = int(params_df.loc[0, 'elem_size']) # 0=index_sim
             mesh_size_x = int(params_df.loc[0, 'largeurs'])
             mesh_size_y = int(params_df.loc[0, 'hauteurs'])
-            resolution = int(np.sqrt(np.shape(U)[0]))
+            if resolution == None :
+                resolution = int(np.sqrt(np.shape(U)[0]))
 
         U_remap.append(tl.remap_U(mesh_size_x, mesh_size_y, resolution, U, pos, method="linear"))
         print(f"{i}/{sim_count} done")
@@ -48,7 +49,7 @@ def get_X_from_sim_grid(sim_grid_path, X_name_list = ["distances", "rayons", "pl
     params_path = os.path.join(sim_grid_path,'params.xlsx')
     params_df = pd.read_excel(params_path)
 
-    materiaux_path = r"C:\Users\Antoine\Documents\master\PA\abacus\sim_plaque\run_sims\materiaux.json"
+    materiaux_path = r"C:\Users\Antoine\Documents\master\PA\abacus\sim_plaque\run_sims\materiaux_back_up.json"
     with open(materiaux_path, "r", encoding="utf-8") as f:
         materiaux = json.load(f)
 

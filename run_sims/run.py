@@ -39,11 +39,9 @@ clean_dir(current_path)
 with open(materiaux_path, "r", encoding="utf-8") as f:
     materiaux = json.load(f)
 
-epaisseurs = np.array([0.5])
-epaisseurs = np.append(epaisseurs, np.arange(1, 20+1 , 1)).tolist()
+epaisseurs = [1]
 
-distances = np.arange(5, 190 + 1, 10)
-distances = np.append(distances, 190).tolist()
+distances = np.random.uniform(low=5.0, high=50.0, size=400).tolist()
 
 params = {
     "largeurs" : [400], #mm
@@ -123,8 +121,8 @@ for index, combo in enumerate(combinations):
     lines.append(list_combo + [failed, calculation_time, nodes_count])
     clean_dir(current_path)
         
-df = pd.DataFrame(lines, columns=[i for i in params.keys()]+["is_failed", "calculation_time (s)", "node count"])     
-df.to_excel(os.path.join(grid_path,"params.xlsx"))
+    df = pd.DataFrame(lines, columns=[i for i in params.keys()]+["is_failed", "calculation_time (s)", "node count"])     
+    df.to_excel(os.path.join(grid_path,"params.xlsx"))
 
 
 

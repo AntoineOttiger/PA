@@ -79,22 +79,33 @@ def remap_U(mesh_size_x : int,
 
     return remaped_U
 
-def heatmaps_from_one_sample(true : np.ndarray, pred : np.ndarray):
+def heatmaps_from_one_sample(true : np.ndarray, pred : np.ndarray, one_scale = True):
 
-    vmin = min(np.min(true), np.min(pred))
-    vmax = max(np.max(true), np.max(pred))
+    if one_scale :
+        vmin0 = vmin1= min(np.min(true), np.min(pred))
+        vmax0 = vmax1 = max(np.max(true), np.max(pred))
+    else : 
+        vmin0 = np.min(true)
+        vmax0 = np.max(true)
+        vmin1 = np.min(pred)
+        vmax1 = np.max(pred)
+
 
     diff = abs(pred - true)
 
     fig, axs = plt.subplots(1, 3, figsize=(18, 5))
 
-    im0 = axs[0].imshow(true, cmap='viridis', vmin=vmin, vmax=vmax)
+    im0 = axs[0].imshow(true, cmap='viridis', vmin=vmin0, vmax=vmax0)
     axs[0].set_title("FEM results")
     axs[0].axis('off')
 
-    im1 = axs[1].imshow(pred, cmap='viridis', vmin=vmin, vmax=vmax)
+    im1 = axs[1].imshow(pred, cmap='viridis', vmin=vmin1, vmax=vmax1)
     axs[1].set_title("NN predictions")
     axs[1].axis('off')
+
+    if not one_scale :
+        cbar0 = fig.colorbar(im0, ax=axs[0])
+        cbar0.set_label("displacement")
 
     cbar1 = fig.colorbar(im1, ax=axs[1])
     cbar1.set_label("displacement")
@@ -110,7 +121,31 @@ def heatmaps_from_one_sample(true : np.ndarray, pred : np.ndarray):
     return None
 
 
+def filter_by_feature_range(X, y, feature_index, min_val, max_val):
+    # remove samples not in range for a certain feature
+    mask = (X[:, feature_index] >= min_val) & (X[:, feature_index] <= max_val)
+    return X[mask], y[mask]
+
+
 if __name__ == "__main__":
+    """
+    X = np.array([
+        [1.0, 5.0],
+        [2.0, 10.0],
+        [3.0, 15.0],
+        [4.0, 20.0]
+    ])
+
+    y = np.array([1,2,3,4])
+
+    filtered_stuff = filter_by_feature_range(X, y, feature_index=1, min_val=6, max_val=19)
+    print(filtered_stuff)
+    """
+
+    a = np.random.uniform(low=0.0, high=1.0, size=30)
+    a = a.tolist()
+    print(len(a))
+
     None
 
 
