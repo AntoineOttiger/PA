@@ -39,14 +39,16 @@ clean_dir(current_path)
 with open(materiaux_path, "r", encoding="utf-8") as f:
     materiaux = json.load(f)
 
-epaisseurs = [1]
+epaisseurs = [0.5, 0.75, 1, 2, 3]
 
-distances = np.random.uniform(low=5.0, high=50.0, size=400).tolist()
+distances_x = [5, 15, 25, 35, 45, 55, 65, 75, 85]
+distances_y = [5, 15, 25, 35, 45, 55, 65, 75, 85]
 
 params = {
     "largeurs" : [400], #mm
     "hauteurs" : [400], #mm
-    "distances" : distances, #mm
+    "distances_x" : distances_x, #mm
+    "distances_y" : distances_y, #mm
     "rayons" : [4],  #mm
     "plaque_epaisseurs" :  epaisseurs, #mm
     "frequ_max_mode" : [500.0],
