@@ -1,1 +1,1 @@
-[{"name": "acier", "young_modulus": 210000.0, "density": 7.86e-09, "poisson_modulus": 0.26}]
+[{"name": "acier", "young_modulus": 210000.0, "density": 7.86e-09, "poisson_modulus": 0.26}, {"name": "cuivre", "young_modulus": 124000.0, "density": 8.96e-09, "poisson_modulus": 0.36}, {"name": "aluminium", "young_modulus": 69000.0, "density": 2.7e-09, "poisson_modulus": 0.33}, {"name": "titan", "young_modulus": 114000.0, "density": 4.5e-09, "poisson_modulus": 0.34}]

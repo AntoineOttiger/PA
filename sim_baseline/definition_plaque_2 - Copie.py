@@ -24,12 +24,13 @@ import displayGroupOdbToolset as dgo
 import connectorBehavior
 
 # dimensions de la plaque
-largeur = 405.0 #mm
-hauteur = 403.0 #mm
+largeur = 400.0 #mm
+hauteur = 400.0 #mm
 
 
 # grandeurs caractéristique pour les points fixes
-distance = 25.0 #mm
+distance_x = 25.0 #mm
+distance_y = 100
 rayon = 4.5 #mm
 plaque_epaisseur =  1.0 #mm
 
@@ -47,10 +48,10 @@ s.FixedConstraint(entity=v[0])
 s.rectangle(point1=(0.0, 0.0), point2=(largeur, hauteur))
 
 # definition des trous de fixation - arrête du trou est bloquée
-s.CircleByCenterPerimeter(center=(distance, distance), point1=(distance, distance + rayon))
-s.CircleByCenterPerimeter(center=(distance, hauteur - distance), point1=(distance, hauteur - distance - rayon))
-s.CircleByCenterPerimeter(center=(largeur - distance, hauteur - distance), point1=(largeur - distance, hauteur - distance - rayon))
-s.CircleByCenterPerimeter(center=(largeur - distance, distance), point1=(largeur - distance, distance + rayon))
+s.CircleByCenterPerimeter(center=(distance_x, distance_y), point1=(distance_x, distance_y + rayon))
+s.CircleByCenterPerimeter(center=(distance_x, hauteur - distance_y), point1=(distance_x, hauteur - distance_y - rayon))
+s.CircleByCenterPerimeter(center=(largeur - distance_x, hauteur - distance_y), point1=(largeur - distance_x, hauteur - distance_y - rayon))
+s.CircleByCenterPerimeter(center=(largeur - distance_x, distance_y), point1=(largeur - distance_x, distance_y + rayon))
 
 
 p = mdb.models['Model-1'].Part(name='plaque', dimensionality=THREE_D, 

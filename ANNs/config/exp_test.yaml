@@ -1,0 +1,17 @@
+model:
+  model_name: DECODER_1  
+
+training:
+  learning_rate: 0.001
+  epochs: 1000
+  batch_size: 32
+  patience : 20
+
+dataset:
+  dataset_name: "20250331140859"
+
+prepare:
+  features: ["distances", "plaque_epaisseurs","materiaux"]
+  train_test_split: 0.2
+  val_test_split: 0.5
+  seed: 42

@@ -1,3 +1,5 @@
 trash/
 back_up/
 run_sims/outputs/
+ANNs/data/raw/
+ANNs/mlruns/

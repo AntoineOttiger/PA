@@ -30,7 +30,8 @@ import os
 def run_sim(report_path,
             largeur, #mm
             hauteur, #mm
-            distance, #mm
+            distance_x, #mm
+            distance_y,
             rayon, #mm
             plaque_epaisseur, #mm
             frequ_max_mode,
@@ -53,10 +54,10 @@ def run_sim(report_path,
     s.rectangle(point1=(0.0, 0.0), point2=(largeur, hauteur))
 
     # definition des trous de fixation - arrête du trou est bloquée
-    s.CircleByCenterPerimeter(center=(distance, distance), point1=(distance, distance + rayon))
-    s.CircleByCenterPerimeter(center=(distance, hauteur - distance), point1=(distance, hauteur - distance - rayon))
-    s.CircleByCenterPerimeter(center=(largeur - distance, hauteur - distance), point1=(largeur - distance, hauteur - distance - rayon))
-    s.CircleByCenterPerimeter(center=(largeur - distance, distance), point1=(largeur - distance, distance + rayon))
+    s.CircleByCenterPerimeter(center=(distance_x, distance_y), point1=(distance_x, distance_y + rayon))
+    s.CircleByCenterPerimeter(center=(distance_x, hauteur - distance_y), point1=(distance_x, hauteur - distance_y - rayon))
+    s.CircleByCenterPerimeter(center=(largeur - distance_x, hauteur - distance_y), point1=(largeur - distance_x, hauteur - distance_y - rayon))
+    s.CircleByCenterPerimeter(center=(largeur - distance_x, distance_y), point1=(largeur - distance_x, distance_y + rayon))
 
 
     p = mdb.models['Model-1'].Part(name='plaque', dimensionality=THREE_D, 
