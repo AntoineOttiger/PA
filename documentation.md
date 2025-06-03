@@ -1,6 +1,6 @@
 # **Dataset creation :**
 
-open folder run_sims in your IDE
+open folder run_sims or run_sims_V2 in your IDE
 
 run_sims : loss MSE dataset
 
@@ -28,21 +28,28 @@ train a model with a config file
 
 #### scr/evaluate.py :
 
-Permit to evaluate a model from a run id. For exemple if you made a run with pipeline.py you can reevaluate the model from this run by providing run id. You can set if you want mode shape heatmaps and feature/feature plots (is_pred_hm=True, is_plot_f_f=True)
+Permit to evaluate a model from a run id. For exemple if you made a run with pipeline.py you can reevaluate the model from this run by providing run id. 
+
+Activate/Desactivate calculation of shape heatmaps and/or feature/feature plots (is_pred_hm=True, is_plot_f_f=True)
 
 ##### to retrieve exact results of the report :
 
-    hyperparam optim on dataset 1 :
+###### model non-optim on dataset 1 :
 
-    name : upset-ray-640
+run id : 52e5eb0edc304c98be3dcf519aea4b8d
 
-    run id : cc91b319ba7a4361ad337c056bdc7452
+###### model non-optim on dataset 2 :
 
-    hyperparam optim on dataset 2 :
+run id : d4ffe3fe0cab487c876ad96a53272c9d
 
-    name : thundering-fish-332
+###### model optim on dataset 1 :
 
-    run id : 0e5ce74da09a47a48e745ada05756c4d
+run id : cc91b319ba7a4361ad337c056bdc7452
+
+###### model optim on dataset 2 :
+
+run id : 0e5ce74da09a47a48e745ada05756c4d
+
 
 #### scr/hyperparam_opt.py :
 
