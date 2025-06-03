@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/4d9c6db3da3c453ea8f5daa16fb4216d/artifacts
+end_time: 1746644066812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d9c6db3da3c453ea8f5daa16fb4216d
+run_name: bright-hawk-433
+run_uuid: 4d9c6db3da3c453ea8f5daa16fb4216d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746643975488
+status: 3
+tags: []
+user_id: Antoine

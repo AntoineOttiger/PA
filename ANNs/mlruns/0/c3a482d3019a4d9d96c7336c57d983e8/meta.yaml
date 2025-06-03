@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c3a482d3019a4d9d96c7336c57d983e8/artifacts
+deleted_time: 1745853423431
+end_time: 1745676884253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c3a482d3019a4d9d96c7336c57d983e8
+run_name: efficient-snail-287
+run_uuid: c3a482d3019a4d9d96c7336c57d983e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745676864497
+status: 3
+tags: []
+user_id: Antoine

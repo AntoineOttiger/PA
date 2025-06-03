@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/696d69105341429d956e3ba99070bb2d/artifacts
+end_time: 1747819837824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 696d69105341429d956e3ba99070bb2d
+run_name: resilient-swan-717
+run_uuid: 696d69105341429d956e3ba99070bb2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819755708
+status: 3
+tags: []
+user_id: Antoine

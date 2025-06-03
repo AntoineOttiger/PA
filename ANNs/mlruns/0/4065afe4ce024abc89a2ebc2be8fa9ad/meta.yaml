@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/4065afe4ce024abc89a2ebc2be8fa9ad/artifacts
+end_time: 1747822094167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4065afe4ce024abc89a2ebc2be8fa9ad
+run_name: adventurous-wasp-340
+run_uuid: 4065afe4ce024abc89a2ebc2be8fa9ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822034572
+status: 3
+tags: []
+user_id: Antoine

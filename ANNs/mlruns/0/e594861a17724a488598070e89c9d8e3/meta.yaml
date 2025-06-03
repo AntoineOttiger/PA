@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/e594861a17724a488598070e89c9d8e3/artifacts
+end_time: 1746639437695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e594861a17724a488598070e89c9d8e3
+run_name: stately-goose-788
+run_uuid: e594861a17724a488598070e89c9d8e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746639402848
+status: 3
+tags: []
+user_id: Antoine

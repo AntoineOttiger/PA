@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/044392095d0f4a04921fec5c7ceb3ac1/artifacts
+end_time: 1747829373352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 044392095d0f4a04921fec5c7ceb3ac1
+run_name: salty-worm-558
+run_uuid: 044392095d0f4a04921fec5c7ceb3ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829243602
+status: 3
+tags: []
+user_id: Antoine

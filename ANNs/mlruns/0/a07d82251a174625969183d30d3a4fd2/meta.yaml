@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/a07d82251a174625969183d30d3a4fd2/artifacts
+end_time: 1746640426532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a07d82251a174625969183d30d3a4fd2
+run_name: gaudy-finch-990
+run_uuid: a07d82251a174625969183d30d3a4fd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640408993
+status: 3
+tags: []
+user_id: Antoine

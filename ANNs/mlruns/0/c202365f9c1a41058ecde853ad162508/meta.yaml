@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c202365f9c1a41058ecde853ad162508/artifacts
+end_time: 1746631670945
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c202365f9c1a41058ecde853ad162508
+run_name: loud-vole-701
+run_uuid: c202365f9c1a41058ecde853ad162508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746631647238
+status: 3
+tags: []
+user_id: Antoine

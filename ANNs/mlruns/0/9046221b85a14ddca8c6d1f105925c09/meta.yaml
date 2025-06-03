@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/9046221b85a14ddca8c6d1f105925c09/artifacts
+end_time: 1746640223753
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9046221b85a14ddca8c6d1f105925c09
+run_name: able-crow-153
+run_uuid: 9046221b85a14ddca8c6d1f105925c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640203629
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/472c0a6394b246acaedbda6ec673478c/artifacts
+deleted_time: 1746630773534
+end_time: 1746625058795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 472c0a6394b246acaedbda6ec673478c
+run_name: bouncy-rook-242
+run_uuid: 472c0a6394b246acaedbda6ec673478c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625045902
+status: 3
+tags: []
+user_id: Antoine

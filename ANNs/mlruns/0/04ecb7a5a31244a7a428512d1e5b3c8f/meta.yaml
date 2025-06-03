@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/04ecb7a5a31244a7a428512d1e5b3c8f/artifacts
+end_time: 1746640463511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04ecb7a5a31244a7a428512d1e5b3c8f
+run_name: zealous-pig-625
+run_uuid: 04ecb7a5a31244a7a428512d1e5b3c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640444063
+status: 3
+tags: []
+user_id: Antoine

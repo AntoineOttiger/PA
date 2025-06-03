@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/f7f2328e6df745dabba0daf2e2f03a22/artifacts
+deleted_time: 1746630773519
+end_time: 1746625278954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f7f2328e6df745dabba0daf2e2f03a22
+run_name: calm-rook-407
+run_uuid: f7f2328e6df745dabba0daf2e2f03a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625267208
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/ee8f091c293a41f3923a8a8fd8820064/artifacts
+end_time: 1747823175442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee8f091c293a41f3923a8a8fd8820064
+run_name: fearless-newt-68
+run_uuid: ee8f091c293a41f3923a8a8fd8820064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747823131454
+status: 3
+tags: []
+user_id: Antoine

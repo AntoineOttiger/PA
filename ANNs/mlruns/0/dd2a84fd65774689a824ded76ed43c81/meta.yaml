@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/dd2a84fd65774689a824ded76ed43c81/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd2a84fd65774689a824ded76ed43c81
+run_name: monumental-doe-303
+run_uuid: dd2a84fd65774689a824ded76ed43c81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746637703225
+status: 1
+tags: []
+user_id: Antoine

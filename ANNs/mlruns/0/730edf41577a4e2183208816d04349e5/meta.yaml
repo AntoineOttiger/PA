@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/730edf41577a4e2183208816d04349e5/artifacts
+end_time: 1746440523404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 730edf41577a4e2183208816d04349e5
+run_name: abrasive-vole-185
+run_uuid: 730edf41577a4e2183208816d04349e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746440476349
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/218d6b6485f04812ae6327d66daadfca/artifacts
+end_time: 1747820361535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 218d6b6485f04812ae6327d66daadfca
+run_name: sedate-toad-507
+run_uuid: 218d6b6485f04812ae6327d66daadfca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747820318587
+status: 3
+tags: []
+user_id: Antoine

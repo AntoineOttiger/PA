@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/9eb2f17ea7a24292ac7109c68ca33732/artifacts
+end_time: 1747822179818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9eb2f17ea7a24292ac7109c68ca33732
+run_name: nimble-moth-25
+run_uuid: 9eb2f17ea7a24292ac7109c68ca33732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822150982
+status: 3
+tags: []
+user_id: Antoine

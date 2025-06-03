@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/119dfaa0ebfd4639afdb7a8ee18db2a3/artifacts
+end_time: 1746625934456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 119dfaa0ebfd4639afdb7a8ee18db2a3
+run_name: tasteful-bird-169
+run_uuid: 119dfaa0ebfd4639afdb7a8ee18db2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625883287
+status: 3
+tags: []
+user_id: Antoine

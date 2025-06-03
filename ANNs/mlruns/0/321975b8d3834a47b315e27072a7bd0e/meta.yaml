@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/321975b8d3834a47b315e27072a7bd0e/artifacts
+end_time: 1747819426704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 321975b8d3834a47b315e27072a7bd0e
+run_name: gentle-trout-885
+run_uuid: 321975b8d3834a47b315e27072a7bd0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819414034
+status: 3
+tags: []
+user_id: Antoine

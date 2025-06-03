@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/624d5c70184b4517a7c0f9d0cc28ca4a/artifacts
+end_time: 1746633108045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 624d5c70184b4517a7c0f9d0cc28ca4a
+run_name: delightful-stoat-522
+run_uuid: 624d5c70184b4517a7c0f9d0cc28ca4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746632960472
+status: 3
+tags: []
+user_id: Antoine

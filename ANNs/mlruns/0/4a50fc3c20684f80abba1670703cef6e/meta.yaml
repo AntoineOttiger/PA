@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/4a50fc3c20684f80abba1670703cef6e/artifacts
+end_time: 1746640142886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a50fc3c20684f80abba1670703cef6e
+run_name: suave-hare-562
+run_uuid: 4a50fc3c20684f80abba1670703cef6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640122171
+status: 3
+tags: []
+user_id: Antoine

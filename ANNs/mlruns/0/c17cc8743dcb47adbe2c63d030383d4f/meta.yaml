@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c17cc8743dcb47adbe2c63d030383d4f/artifacts
+end_time: 1746643519333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c17cc8743dcb47adbe2c63d030383d4f
+run_name: angry-hen-211
+run_uuid: c17cc8743dcb47adbe2c63d030383d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746643452808
+status: 3
+tags: []
+user_id: Antoine

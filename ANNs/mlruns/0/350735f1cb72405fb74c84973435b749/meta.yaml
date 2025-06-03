@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/350735f1cb72405fb74c84973435b749/artifacts
+end_time: 1746443274055
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 350735f1cb72405fb74c84973435b749
+run_name: serious-grouse-180
+run_uuid: 350735f1cb72405fb74c84973435b749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746443262211
+status: 3
+tags: []
+user_id: Antoine

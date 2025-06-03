@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/45e9ee4bbedf454f935ec88234be13d5/artifacts
+end_time: 1746633418806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45e9ee4bbedf454f935ec88234be13d5
+run_name: amusing-loon-183
+run_uuid: 45e9ee4bbedf454f935ec88234be13d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746633401141
+status: 3
+tags: []
+user_id: Antoine

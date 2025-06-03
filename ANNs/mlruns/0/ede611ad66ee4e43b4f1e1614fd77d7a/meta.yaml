@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/ede611ad66ee4e43b4f1e1614fd77d7a/artifacts
+deleted_time: 1745853423415
+end_time: 1745690947026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ede611ad66ee4e43b4f1e1614fd77d7a
+run_name: gentle-pug-223
+run_uuid: ede611ad66ee4e43b4f1e1614fd77d7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745690941681
+status: 3
+tags: []
+user_id: Antoine

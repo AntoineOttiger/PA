@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/9970a715d2da4e5ea0c49d1dbdbf615e/artifacts
+end_time: 1747827911862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9970a715d2da4e5ea0c49d1dbdbf615e
+run_name: traveling-stag-270
+run_uuid: 9970a715d2da4e5ea0c49d1dbdbf615e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747827831113
+status: 3
+tags: []
+user_id: Antoine

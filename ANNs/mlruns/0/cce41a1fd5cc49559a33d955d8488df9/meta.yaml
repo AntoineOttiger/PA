@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/cce41a1fd5cc49559a33d955d8488df9/artifacts
+end_time: 1747830355559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cce41a1fd5cc49559a33d955d8488df9
+run_name: likeable-ape-634
+run_uuid: cce41a1fd5cc49559a33d955d8488df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830308633
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c86d54362ea7422797f2375b15ddb277/artifacts
+end_time: 1746625673413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c86d54362ea7422797f2375b15ddb277
+run_name: abrasive-mouse-984
+run_uuid: c86d54362ea7422797f2375b15ddb277
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625644983
+status: 3
+tags: []
+user_id: Antoine

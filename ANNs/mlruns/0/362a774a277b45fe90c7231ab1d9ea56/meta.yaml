@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/362a774a277b45fe90c7231ab1d9ea56/artifacts
+end_time: 1746633302789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 362a774a277b45fe90c7231ab1d9ea56
+run_name: receptive-panda-884
+run_uuid: 362a774a277b45fe90c7231ab1d9ea56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746633147303
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/2e68933d59c3404880ef784b89f876be/artifacts
+end_time: 1746638863438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e68933d59c3404880ef784b89f876be
+run_name: capricious-steed-870
+run_uuid: 2e68933d59c3404880ef784b89f876be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746638764976
+status: 3
+tags: []
+user_id: Antoine

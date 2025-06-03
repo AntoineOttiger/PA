@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/330d5c59365c42b8838cc9c3697a1134/artifacts
+end_time: 1747819614564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 330d5c59365c42b8838cc9c3697a1134
+run_name: resilient-slug-938
+run_uuid: 330d5c59365c42b8838cc9c3697a1134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819606805
+status: 3
+tags: []
+user_id: Antoine

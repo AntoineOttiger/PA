@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/ae9ed718a7c44dd5bd469f1e8b9e9c55/artifacts
+end_time: 1747832108995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae9ed718a7c44dd5bd469f1e8b9e9c55
+run_name: bald-squirrel-185
+run_uuid: ae9ed718a7c44dd5bd469f1e8b9e9c55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747832026069
+status: 3
+tags: []
+user_id: Antoine

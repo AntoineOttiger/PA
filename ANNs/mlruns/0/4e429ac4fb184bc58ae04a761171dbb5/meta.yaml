@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/4e429ac4fb184bc58ae04a761171dbb5/artifacts
+end_time: 1747830054075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e429ac4fb184bc58ae04a761171dbb5
+run_name: wise-duck-27
+run_uuid: 4e429ac4fb184bc58ae04a761171dbb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830034078
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/66c73ea5e66544728a14a46c84c9e388/artifacts
+end_time: 1747828708666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66c73ea5e66544728a14a46c84c9e388
+run_name: traveling-conch-516
+run_uuid: 66c73ea5e66544728a14a46c84c9e388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828662972
+status: 3
+tags: []
+user_id: Antoine

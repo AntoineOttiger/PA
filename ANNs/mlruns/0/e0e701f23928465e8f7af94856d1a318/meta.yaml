@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/e0e701f23928465e8f7af94856d1a318/artifacts
+end_time: 1747822321546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0e701f23928465e8f7af94856d1a318
+run_name: selective-swan-350
+run_uuid: e0e701f23928465e8f7af94856d1a318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822291145
+status: 3
+tags: []
+user_id: Antoine

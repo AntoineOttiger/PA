@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/49bf6b9391594c7c9fbf4418ad822287/artifacts
+end_time: 1747830168031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49bf6b9391594c7c9fbf4418ad822287
+run_name: loud-loon-776
+run_uuid: 49bf6b9391594c7c9fbf4418ad822287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830118903
+status: 3
+tags: []
+user_id: Antoine

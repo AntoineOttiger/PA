@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/0a40596effd94e49ae1984bac2ade139/artifacts
+end_time: 1747822805326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a40596effd94e49ae1984bac2ade139
+run_name: placid-turtle-796
+run_uuid: 0a40596effd94e49ae1984bac2ade139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822764641
+status: 3
+tags: []
+user_id: Antoine

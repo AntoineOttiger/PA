@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/5607cb35810a4a08bce7a7e350f5ae3c/artifacts
+end_time: 1746639771232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5607cb35810a4a08bce7a7e350f5ae3c
+run_name: secretive-fly-559
+run_uuid: 5607cb35810a4a08bce7a7e350f5ae3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746639749214
+status: 3
+tags: []
+user_id: Antoine

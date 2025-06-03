@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/7dc24cfa98854949a707bf51a48548f1/artifacts
+end_time: 1747831741895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7dc24cfa98854949a707bf51a48548f1
+run_name: kindly-lynx-813
+run_uuid: 7dc24cfa98854949a707bf51a48548f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747831692613
+status: 3
+tags: []
+user_id: Antoine

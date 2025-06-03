@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/5e25fc44fc1a4041a56daf3fa841beb5/artifacts
+end_time: 1746640683825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e25fc44fc1a4041a56daf3fa841beb5
+run_name: receptive-mole-711
+run_uuid: 5e25fc44fc1a4041a56daf3fa841beb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640661946
+status: 3
+tags: []
+user_id: Antoine

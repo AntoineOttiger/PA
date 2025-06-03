@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/2fdd46da82a142038d27abc819cba812/artifacts
+end_time: 1747821239270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fdd46da82a142038d27abc819cba812
+run_name: traveling-calf-460
+run_uuid: 2fdd46da82a142038d27abc819cba812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747821210133
+status: 3
+tags: []
+user_id: Antoine

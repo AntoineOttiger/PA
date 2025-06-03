@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c079a9d8609b4a01974d69433edc609f/artifacts
+end_time: 1747828143652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c079a9d8609b4a01974d69433edc609f
+run_name: bald-worm-238
+run_uuid: c079a9d8609b4a01974d69433edc609f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828121366
+status: 3
+tags: []
+user_id: Antoine

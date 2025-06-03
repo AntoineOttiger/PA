@@ -1,0 +1,23 @@
+model:
+  model_name: DECODER_1  
+  mlp_layers: [64, 80, 96, 9]
+  decoder_channels: [112, 16, 64, 1]
+
+training:
+  learning_rate: 0.0008536705520983986
+  epochs: 1000
+  batch_size: 16
+  patience : 50
+  loss: "mse"
+
+dataset:
+  dataset_name: "20250331140859" # dataset 1
+  dataset_format: "v1" #v1 classical loss, v2 FEM-informed
+
+prepare:
+  features: ["distances", "plaque_epaisseurs","materiaux"]
+  train_test_split: 0.2
+  val_test_split: 0.5
+  seed: 42
+  
+

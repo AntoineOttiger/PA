@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/5d045513f513409b91cdf34b6d5f1f16/artifacts
+end_time: 1747831629462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d045513f513409b91cdf34b6d5f1f16
+run_name: funny-ant-212
+run_uuid: 5d045513f513409b91cdf34b6d5f1f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747831570100
+status: 3
+tags: []
+user_id: Antoine

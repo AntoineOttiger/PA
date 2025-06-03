@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/32b83c394bde4c8aad4d2528e5537485/artifacts
+end_time: 1747827745646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32b83c394bde4c8aad4d2528e5537485
+run_name: awesome-pig-38
+run_uuid: 32b83c394bde4c8aad4d2528e5537485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747827700126
+status: 3
+tags: []
+user_id: Antoine

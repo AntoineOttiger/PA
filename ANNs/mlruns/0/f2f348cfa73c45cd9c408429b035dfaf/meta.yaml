@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/f2f348cfa73c45cd9c408429b035dfaf/artifacts
+end_time: 1746644728287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2f348cfa73c45cd9c408429b035dfaf
+run_name: classy-elk-426
+run_uuid: f2f348cfa73c45cd9c408429b035dfaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746644676667
+status: 3
+tags: []
+user_id: Antoine

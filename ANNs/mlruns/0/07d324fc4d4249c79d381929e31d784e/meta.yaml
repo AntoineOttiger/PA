@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/07d324fc4d4249c79d381929e31d784e/artifacts
+end_time: 1746443464849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07d324fc4d4249c79d381929e31d784e
+run_name: gentle-quail-91
+run_uuid: 07d324fc4d4249c79d381929e31d784e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746443426048
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/0a42c2a9505e4d4c809b82732c52f6bd/artifacts
+end_time: 1747820082299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a42c2a9505e4d4c809b82732c52f6bd
+run_name: capricious-foal-131
+run_uuid: 0a42c2a9505e4d4c809b82732c52f6bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747820034640
+status: 3
+tags: []
+user_id: Antoine

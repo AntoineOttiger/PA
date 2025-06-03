@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c6a78465e960439991707cc49000e022/artifacts
+end_time: 1746632651410
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6a78465e960439991707cc49000e022
+run_name: wise-donkey-930
+run_uuid: c6a78465e960439991707cc49000e022
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746632571263
+status: 3
+tags: []
+user_id: Antoine

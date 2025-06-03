@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/e366ad0ca82b4980a02625c11717b296/artifacts
+end_time: 1746440317240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e366ad0ca82b4980a02625c11717b296
+run_name: receptive-carp-150
+run_uuid: e366ad0ca82b4980a02625c11717b296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746440277158
+status: 3
+tags: []
+user_id: Antoine

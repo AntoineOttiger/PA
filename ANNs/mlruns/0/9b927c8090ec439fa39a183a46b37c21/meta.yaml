@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/9b927c8090ec439fa39a183a46b37c21/artifacts
+end_time: 1747827418756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b927c8090ec439fa39a183a46b37c21
+run_name: calm-duck-285
+run_uuid: 9b927c8090ec439fa39a183a46b37c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747827386634
+status: 3
+tags: []
+user_id: Antoine

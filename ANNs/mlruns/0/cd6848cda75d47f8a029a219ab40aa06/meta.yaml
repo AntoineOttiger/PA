@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/cd6848cda75d47f8a029a219ab40aa06/artifacts
+deleted_time: 1746630773521
+end_time: 1746625267204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cd6848cda75d47f8a029a219ab40aa06
+run_name: suave-auk-497
+run_uuid: cd6848cda75d47f8a029a219ab40aa06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625205019
+status: 3
+tags: []
+user_id: Antoine

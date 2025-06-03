@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/7ec815880f584bf4bc9df4c2abed983e/artifacts
+deleted_time: 1745853423430
+end_time: 1745677400670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7ec815880f584bf4bc9df4c2abed983e
+run_name: suave-chimp-573
+run_uuid: 7ec815880f584bf4bc9df4c2abed983e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745677400645
+status: 4
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/b50a185dc44f480b8ea34bcc3a677cc3/artifacts
+end_time: 1747829836525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b50a185dc44f480b8ea34bcc3a677cc3
+run_name: grandiose-eel-717
+run_uuid: b50a185dc44f480b8ea34bcc3a677cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829770820
+status: 3
+tags: []
+user_id: Antoine

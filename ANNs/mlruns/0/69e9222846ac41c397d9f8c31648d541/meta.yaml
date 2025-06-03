@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/69e9222846ac41c397d9f8c31648d541/artifacts
+end_time: 1746626531248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69e9222846ac41c397d9f8c31648d541
+run_name: sassy-hawk-639
+run_uuid: 69e9222846ac41c397d9f8c31648d541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746626484393
+status: 3
+tags: []
+user_id: Antoine

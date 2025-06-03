@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/e5e6325e1bd04fd8a4e3d01980269ba0/artifacts
+end_time: 1747823020823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5e6325e1bd04fd8a4e3d01980269ba0
+run_name: rare-roo-123
+run_uuid: e5e6325e1bd04fd8a4e3d01980269ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822963917
+status: 3
+tags: []
+user_id: Antoine

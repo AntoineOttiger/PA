@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/21dc9abf6199499b898f84305c53707e/artifacts
+end_time: 1746642738597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21dc9abf6199499b898f84305c53707e
+run_name: invincible-moose-12
+run_uuid: 21dc9abf6199499b898f84305c53707e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746642656148
+status: 3
+tags: []
+user_id: Antoine

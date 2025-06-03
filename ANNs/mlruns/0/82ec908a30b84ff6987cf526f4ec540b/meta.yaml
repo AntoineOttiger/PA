@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/82ec908a30b84ff6987cf526f4ec540b/artifacts
+end_time: 1746642656121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82ec908a30b84ff6987cf526f4ec540b
+run_name: enchanting-lamb-670
+run_uuid: 82ec908a30b84ff6987cf526f4ec540b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746642572869
+status: 3
+tags: []
+user_id: Antoine

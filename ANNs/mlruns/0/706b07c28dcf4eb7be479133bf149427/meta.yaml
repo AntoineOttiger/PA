@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/706b07c28dcf4eb7be479133bf149427/artifacts
+end_time: 1746433937444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 706b07c28dcf4eb7be479133bf149427
+run_name: Train
+run_uuid: 706b07c28dcf4eb7be479133bf149427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746433910895
+status: 3
+tags: []
+user_id: Antoine

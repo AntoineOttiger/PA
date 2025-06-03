@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/fcf5bfc9bdbc459aa4c25245793082f6/artifacts
+end_time: 1747820318539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcf5bfc9bdbc459aa4c25245793082f6
+run_name: abrasive-swan-473
+run_uuid: fcf5bfc9bdbc459aa4c25245793082f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747820247294
+status: 3
+tags: []
+user_id: Antoine

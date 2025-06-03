@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c20d7c401b4740229d4c5db4376bf5f9/artifacts
+end_time: 1747830522954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c20d7c401b4740229d4c5db4376bf5f9
+run_name: bald-conch-872
+run_uuid: c20d7c401b4740229d4c5db4376bf5f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830472104
+status: 3
+tags: []
+user_id: Antoine

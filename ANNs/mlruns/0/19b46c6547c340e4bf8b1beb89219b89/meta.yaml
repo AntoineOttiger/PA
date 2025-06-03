@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/19b46c6547c340e4bf8b1beb89219b89/artifacts
+end_time: 1747828443470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19b46c6547c340e4bf8b1beb89219b89
+run_name: learned-boar-444
+run_uuid: 19b46c6547c340e4bf8b1beb89219b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828389338
+status: 3
+tags: []
+user_id: Antoine

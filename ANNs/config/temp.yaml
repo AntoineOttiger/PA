@@ -1,0 +1,29 @@
+dataset:
+  dataset_format: v1
+  dataset_name: '20250331140859'
+model:
+  decoder_channels:
+  - 128
+  - 48
+  - 32
+  - 1
+  mlp_layers:
+  - 48
+  - 96
+  - 128
+  - 9
+  model_name: DECODER_1
+prepare:
+  features:
+  - distances
+  - plaque_epaisseurs
+  - materiaux
+  seed: 42
+  train_test_split: 0.2
+  val_test_split: 0.5
+training:
+  batch_size: 16
+  epochs: 1000
+  learning_rate: 0.0005138292928415308
+  loss: mse
+  patience: 50

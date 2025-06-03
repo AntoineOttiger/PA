@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/48773b493d6548e48eee00c64c17f710/artifacts
+end_time: 1746632960462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48773b493d6548e48eee00c64c17f710
+run_name: skillful-horse-771
+run_uuid: 48773b493d6548e48eee00c64c17f710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746632894945
+status: 3
+tags: []
+user_id: Antoine

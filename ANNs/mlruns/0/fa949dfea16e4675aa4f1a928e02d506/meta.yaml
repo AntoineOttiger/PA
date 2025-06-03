@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/fa949dfea16e4675aa4f1a928e02d506/artifacts
+deleted_time: 1746630773529
+end_time: 1746625126462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fa949dfea16e4675aa4f1a928e02d506
+run_name: adaptable-frog-409
+run_uuid: fa949dfea16e4675aa4f1a928e02d506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625072879
+status: 3
+tags: []
+user_id: Antoine

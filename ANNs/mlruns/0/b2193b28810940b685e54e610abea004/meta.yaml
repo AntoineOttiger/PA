@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/b2193b28810940b685e54e610abea004/artifacts
+end_time: 1746632695404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2193b28810940b685e54e610abea004
+run_name: wise-foal-939
+run_uuid: b2193b28810940b685e54e610abea004
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746632651422
+status: 3
+tags: []
+user_id: Antoine

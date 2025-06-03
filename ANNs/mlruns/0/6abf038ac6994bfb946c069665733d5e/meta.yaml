@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/6abf038ac6994bfb946c069665733d5e/artifacts
+end_time: 1747831389284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6abf038ac6994bfb946c069665733d5e
+run_name: salty-cub-664
+run_uuid: 6abf038ac6994bfb946c069665733d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747831353712
+status: 3
+tags: []
+user_id: Antoine

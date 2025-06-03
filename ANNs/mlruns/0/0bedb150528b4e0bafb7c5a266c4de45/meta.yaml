@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/0bedb150528b4e0bafb7c5a266c4de45/artifacts
+end_time: 1746640244495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bedb150528b4e0bafb7c5a266c4de45
+run_name: dashing-perch-609
+run_uuid: 0bedb150528b4e0bafb7c5a266c4de45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640223773
+status: 3
+tags: []
+user_id: Antoine

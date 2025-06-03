@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/8b6e02b4dbbc43388b58ccef853c872c/artifacts
+end_time: 1746637986447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b6e02b4dbbc43388b58ccef853c872c
+run_name: gaudy-hare-246
+run_uuid: 8b6e02b4dbbc43388b58ccef853c872c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746637937287
+status: 3
+tags: []
+user_id: Antoine

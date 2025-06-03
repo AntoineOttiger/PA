@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/49e4bf6f73ee464981776f63265b8d7f/artifacts
+end_time: 1747820535957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49e4bf6f73ee464981776f63265b8d7f
+run_name: peaceful-swan-161
+run_uuid: 49e4bf6f73ee464981776f63265b8d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747820498325
+status: 3
+tags: []
+user_id: Antoine

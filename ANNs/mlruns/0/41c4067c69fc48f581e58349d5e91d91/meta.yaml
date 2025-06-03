@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/41c4067c69fc48f581e58349d5e91d91/artifacts
+end_time: 1747831039518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41c4067c69fc48f581e58349d5e91d91
+run_name: skittish-newt-347
+run_uuid: 41c4067c69fc48f581e58349d5e91d91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830981293
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/5d7cc4d7fe674f1a9944a13ce80564d9/artifacts
+end_time: 1746631580572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d7cc4d7fe674f1a9944a13ce80564d9
+run_name: likeable-calf-547
+run_uuid: 5d7cc4d7fe674f1a9944a13ce80564d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746631493224
+status: 3
+tags: []
+user_id: Antoine

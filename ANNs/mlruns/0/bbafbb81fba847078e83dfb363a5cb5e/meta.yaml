@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/bbafbb81fba847078e83dfb363a5cb5e/artifacts
+end_time: 1747820667274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbafbb81fba847078e83dfb363a5cb5e
+run_name: orderly-fox-446
+run_uuid: bbafbb81fba847078e83dfb363a5cb5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747820625506
+status: 3
+tags: []
+user_id: Antoine

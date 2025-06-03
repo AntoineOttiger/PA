@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/e677239e15cd48649799f94e64f52a90/artifacts
+end_time: 1747819885071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e677239e15cd48649799f94e64f52a90
+run_name: upset-worm-510
+run_uuid: e677239e15cd48649799f94e64f52a90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819837839
+status: 3
+tags: []
+user_id: Antoine

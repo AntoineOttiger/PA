@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/d00d59fe847c471fa7e8766a917d344e/artifacts
+end_time: 1746639749208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d00d59fe847c471fa7e8766a917d344e
+run_name: powerful-lamb-359
+run_uuid: d00d59fe847c471fa7e8766a917d344e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746639668803
+status: 3
+tags: []
+user_id: Antoine

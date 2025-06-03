@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/2a941f9ab8574276bd2f5b3bc89ccda9/artifacts
+end_time: 1746639814774
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a941f9ab8574276bd2f5b3bc89ccda9
+run_name: adorable-panda-946
+run_uuid: 2a941f9ab8574276bd2f5b3bc89ccda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746639799203
+status: 3
+tags: []
+user_id: Antoine

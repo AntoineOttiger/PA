@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/db4012692d42415381e8664da0a66f0f/artifacts
+end_time: 1746442346650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db4012692d42415381e8664da0a66f0f
+run_name: bouncy-pug-643
+run_uuid: db4012692d42415381e8664da0a66f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746442290252
+status: 3
+tags: []
+user_id: Antoine

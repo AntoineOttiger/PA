@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/43f7cd7f38274c6380a44ab5c403557d/artifacts
+end_time: 1747821284519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43f7cd7f38274c6380a44ab5c403557d
+run_name: rumbling-vole-198
+run_uuid: 43f7cd7f38274c6380a44ab5c403557d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747821239328
+status: 3
+tags: []
+user_id: Antoine

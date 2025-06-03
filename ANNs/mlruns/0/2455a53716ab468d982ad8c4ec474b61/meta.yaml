@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/2455a53716ab468d982ad8c4ec474b61/artifacts
+end_time: 1746632209781
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2455a53716ab468d982ad8c4ec474b61
+run_name: chill-swan-311
+run_uuid: 2455a53716ab468d982ad8c4ec474b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746632166229
+status: 3
+tags: []
+user_id: Antoine

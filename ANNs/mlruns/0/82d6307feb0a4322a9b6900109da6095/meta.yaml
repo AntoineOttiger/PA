@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/82d6307feb0a4322a9b6900109da6095/artifacts
+end_time: 1747821662363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82d6307feb0a4322a9b6900109da6095
+run_name: masked-turtle-863
+run_uuid: 82d6307feb0a4322a9b6900109da6095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747821630887
+status: 3
+tags: []
+user_id: Antoine

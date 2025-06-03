@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/1fa5f87c2edd4ec29c800fed23200dbd/artifacts
+end_time: 1747822491707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fa5f87c2edd4ec29c800fed23200dbd
+run_name: persistent-wasp-623
+run_uuid: 1fa5f87c2edd4ec29c800fed23200dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822479570
+status: 3
+tags: []
+user_id: Antoine

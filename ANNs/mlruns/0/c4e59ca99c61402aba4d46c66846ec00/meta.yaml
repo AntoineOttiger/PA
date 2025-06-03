@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c4e59ca99c61402aba4d46c66846ec00/artifacts
+end_time: 1747819707240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4e59ca99c61402aba4d46c66846ec00
+run_name: upbeat-toad-223
+run_uuid: c4e59ca99c61402aba4d46c66846ec00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819676890
+status: 3
+tags: []
+user_id: Antoine

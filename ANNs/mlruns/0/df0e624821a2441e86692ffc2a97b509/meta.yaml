@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/df0e624821a2441e86692ffc2a97b509/artifacts
+end_time: 1747827228630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df0e624821a2441e86692ffc2a97b509
+run_name: rogue-auk-589
+run_uuid: df0e624821a2441e86692ffc2a97b509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747827160895
+status: 3
+tags: []
+user_id: Antoine

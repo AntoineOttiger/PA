@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/84e63b7220b24f44a27d310d78211937/artifacts
+end_time: 1746640767519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84e63b7220b24f44a27d310d78211937
+run_name: traveling-stoat-116
+run_uuid: 84e63b7220b24f44a27d310d78211937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640727813
+status: 3
+tags: []
+user_id: Antoine

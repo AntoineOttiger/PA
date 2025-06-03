@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/8bf71b2a47ad4f40a95b986d177a96d5/artifacts
+deleted_time: 1746630773519
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8bf71b2a47ad4f40a95b986d177a96d5
+run_name: indecisive-crab-903
+run_uuid: 8bf71b2a47ad4f40a95b986d177a96d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625278966
+status: 1
+tags: []
+user_id: Antoine

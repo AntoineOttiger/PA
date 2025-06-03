@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/b7ce3a4c6b02463f8b2ecf9c49267c21/artifacts
+end_time: 1746640544807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7ce3a4c6b02463f8b2ecf9c49267c21
+run_name: intrigued-goose-357
+run_uuid: b7ce3a4c6b02463f8b2ecf9c49267c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640494064
+status: 3
+tags: []
+user_id: Antoine

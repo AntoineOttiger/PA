@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/b84723bfc3c548b8bdd0d2fc2847d855/artifacts
+end_time: 1746639959663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b84723bfc3c548b8bdd0d2fc2847d855
+run_name: tasteful-dog-655
+run_uuid: b84723bfc3c548b8bdd0d2fc2847d855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746639927935
+status: 3
+tags: []
+user_id: Antoine

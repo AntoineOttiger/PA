@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/f83baa13e6f1420ba6134ac8fb5ebe28/artifacts
+end_time: 1747821687225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f83baa13e6f1420ba6134ac8fb5ebe28
+run_name: nimble-cat-400
+run_uuid: f83baa13e6f1420ba6134ac8fb5ebe28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747821662411
+status: 3
+tags: []
+user_id: Antoine

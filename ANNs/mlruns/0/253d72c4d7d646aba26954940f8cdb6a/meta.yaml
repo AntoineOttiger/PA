@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/253d72c4d7d646aba26954940f8cdb6a/artifacts
+end_time: 1747828755263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 253d72c4d7d646aba26954940f8cdb6a
+run_name: thoughtful-moth-787
+run_uuid: 253d72c4d7d646aba26954940f8cdb6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828708691
+status: 3
+tags: []
+user_id: Antoine

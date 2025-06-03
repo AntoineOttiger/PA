@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/7c894d362e884a218dfb1fe5f82777fa/artifacts
+end_time: 1746640100786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c894d362e884a218dfb1fe5f82777fa
+run_name: charming-kite-111
+run_uuid: 7c894d362e884a218dfb1fe5f82777fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640053814
+status: 3
+tags: []
+user_id: Antoine

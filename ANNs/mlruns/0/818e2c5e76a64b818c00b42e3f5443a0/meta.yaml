@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/818e2c5e76a64b818c00b42e3f5443a0/artifacts
+end_time: 1746643852252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 818e2c5e76a64b818c00b42e3f5443a0
+run_name: intrigued-tern-140
+run_uuid: 818e2c5e76a64b818c00b42e3f5443a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746643777068
+status: 3
+tags: []
+user_id: Antoine

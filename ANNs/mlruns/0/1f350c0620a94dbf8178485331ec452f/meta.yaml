@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/1f350c0620a94dbf8178485331ec452f/artifacts
+end_time: 1746640408968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f350c0620a94dbf8178485331ec452f
+run_name: beautiful-hare-904
+run_uuid: 1f350c0620a94dbf8178485331ec452f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640384800
+status: 3
+tags: []
+user_id: Antoine

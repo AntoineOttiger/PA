@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/38dd79bf285c4b40b0a1c61a95828b62/artifacts
+end_time: 1746643736374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38dd79bf285c4b40b0a1c61a95828b62
+run_name: melodic-wasp-42
+run_uuid: 38dd79bf285c4b40b0a1c61a95828b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746643694220
+status: 3
+tags: []
+user_id: Antoine

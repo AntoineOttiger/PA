@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/b43ffa2e97ca4ec9911f87f35872ae69/artifacts
+end_time: 1746443334076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b43ffa2e97ca4ec9911f87f35872ae69
+run_name: abrasive-gnu-605
+run_uuid: b43ffa2e97ca4ec9911f87f35872ae69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746443322590
+status: 3
+tags: []
+user_id: Antoine

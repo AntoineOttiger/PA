@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/41b95d42dfb744948d5bb04ce94b2e4d/artifacts
+end_time: 1746631979734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41b95d42dfb744948d5bb04ce94b2e4d
+run_name: intelligent-mink-61
+run_uuid: 41b95d42dfb744948d5bb04ce94b2e4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746631900728
+status: 3
+tags: []
+user_id: Antoine

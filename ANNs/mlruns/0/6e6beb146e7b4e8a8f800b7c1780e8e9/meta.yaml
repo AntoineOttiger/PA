@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/6e6beb146e7b4e8a8f800b7c1780e8e9/artifacts
+end_time: 1747823326821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e6beb146e7b4e8a8f800b7c1780e8e9
+run_name: righteous-ape-375
+run_uuid: 6e6beb146e7b4e8a8f800b7c1780e8e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747823290618
+status: 3
+tags: []
+user_id: Antoine

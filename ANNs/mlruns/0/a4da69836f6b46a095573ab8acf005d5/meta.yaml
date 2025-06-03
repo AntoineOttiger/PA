@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/a4da69836f6b46a095573ab8acf005d5/artifacts
+end_time: 1747827831095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4da69836f6b46a095573ab8acf005d5
+run_name: useful-newt-592
+run_uuid: a4da69836f6b46a095573ab8acf005d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747827788978
+status: 3
+tags: []
+user_id: Antoine

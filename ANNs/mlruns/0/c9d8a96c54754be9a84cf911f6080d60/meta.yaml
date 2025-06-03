@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c9d8a96c54754be9a84cf911f6080d60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9d8a96c54754be9a84cf911f6080d60
+run_name: optuna_optim
+run_uuid: c9d8a96c54754be9a84cf911f6080d60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746637313429
+status: 1
+tags: []
+user_id: Antoine

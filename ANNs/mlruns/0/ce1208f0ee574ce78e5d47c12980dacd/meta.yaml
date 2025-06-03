@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/ce1208f0ee574ce78e5d47c12980dacd/artifacts
+end_time: 1747830007050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce1208f0ee574ce78e5d47c12980dacd
+run_name: salty-sponge-637
+run_uuid: ce1208f0ee574ce78e5d47c12980dacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829993124
+status: 3
+tags: []
+user_id: Antoine

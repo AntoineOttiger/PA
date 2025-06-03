@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/e36f72e3536547af8372ca71c933989c/artifacts
+end_time: 1746644566699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e36f72e3536547af8372ca71c933989c
+run_name: enchanting-bug-10
+run_uuid: e36f72e3536547af8372ca71c933989c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746644424053
+status: 3
+tags: []
+user_id: Antoine

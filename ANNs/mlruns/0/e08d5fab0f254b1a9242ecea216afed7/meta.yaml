@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/e08d5fab0f254b1a9242ecea216afed7/artifacts
+end_time: 1747831936130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e08d5fab0f254b1a9242ecea216afed7
+run_name: abrasive-crane-517
+run_uuid: e08d5fab0f254b1a9242ecea216afed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747831884452
+status: 3
+tags: []
+user_id: Antoine

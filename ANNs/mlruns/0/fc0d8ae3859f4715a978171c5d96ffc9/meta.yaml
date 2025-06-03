@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/fc0d8ae3859f4715a978171c5d96ffc9/artifacts
+end_time: 1747828389318
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc0d8ae3859f4715a978171c5d96ffc9
+run_name: crawling-crane-4
+run_uuid: fc0d8ae3859f4715a978171c5d96ffc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828333804
+status: 3
+tags: []
+user_id: Antoine

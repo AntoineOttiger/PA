@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/6cde9292bb9c4c2da6c0aa527179b8b1/artifacts
+end_time: 1746643912435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cde9292bb9c4c2da6c0aa527179b8b1
+run_name: shivering-bug-433
+run_uuid: 6cde9292bb9c4c2da6c0aa527179b8b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746643852297
+status: 3
+tags: []
+user_id: Antoine

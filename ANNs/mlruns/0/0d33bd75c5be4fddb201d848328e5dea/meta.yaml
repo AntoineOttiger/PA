@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/0d33bd75c5be4fddb201d848328e5dea/artifacts
+end_time: 1745862376897
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d33bd75c5be4fddb201d848328e5dea
+run_name: debug_eval
+run_uuid: 0d33bd75c5be4fddb201d848328e5dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745862376865
+status: 4
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/0e80e7f3b0494cfdb3c89ddf572dd053/artifacts
+end_time: 1746640494043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e80e7f3b0494cfdb3c89ddf572dd053
+run_name: ambitious-skink-563
+run_uuid: 0e80e7f3b0494cfdb3c89ddf572dd053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640463531
+status: 3
+tags: []
+user_id: Antoine

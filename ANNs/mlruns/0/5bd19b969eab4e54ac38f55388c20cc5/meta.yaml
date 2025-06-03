@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/5bd19b969eab4e54ac38f55388c20cc5/artifacts
+end_time: 1746626320710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bd19b969eab4e54ac38f55388c20cc5
+run_name: salty-grub-623
+run_uuid: 5bd19b969eab4e54ac38f55388c20cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746626296921
+status: 3
+tags: []
+user_id: Antoine

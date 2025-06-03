@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/1e226941d31f4b9aa3c0f56455004b96/artifacts
+end_time: 1747819414029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e226941d31f4b9aa3c0f56455004b96
+run_name: polite-penguin-960
+run_uuid: 1e226941d31f4b9aa3c0f56455004b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819366734
+status: 3
+tags: []
+user_id: Antoine

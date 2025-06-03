@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/454f1035e1ed43309cd8ed5684ce25a1/artifacts
+end_time: 1746633147288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 454f1035e1ed43309cd8ed5684ce25a1
+run_name: whimsical-squid-853
+run_uuid: 454f1035e1ed43309cd8ed5684ce25a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746633125476
+status: 3
+tags: []
+user_id: Antoine

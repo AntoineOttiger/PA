@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/cc91b319ba7a4361ad337c056bdc7452/artifacts
+end_time: 1747831570068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc91b319ba7a4361ad337c056bdc7452
+run_name: upset-ray-640
+run_uuid: cc91b319ba7a4361ad337c056bdc7452
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747831473601
+status: 3
+tags: []
+user_id: Antoine

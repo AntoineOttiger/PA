@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/27f2dbc0853b4a64a9507886ce255a53/artifacts
+end_time: 1747821744768
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27f2dbc0853b4a64a9507886ce255a53
+run_name: loud-flea-590
+run_uuid: 27f2dbc0853b4a64a9507886ce255a53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747821734758
+status: 3
+tags: []
+user_id: Antoine

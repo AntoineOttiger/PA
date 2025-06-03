@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/03ab60ff64d44212b8db2936374b0cfa/artifacts
+end_time: 1747822150934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03ab60ff64d44212b8db2936374b0cfa
+run_name: vaunted-mule-282
+run_uuid: 03ab60ff64d44212b8db2936374b0cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822129190
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,12 @@
+mlflow==2.22.0
+astunparse==1.6.3
+cloudpickle==3.0.0
+dill==0.3.8
+jaraco-classes==3.2.1
+jaraco-collections==5.1.0
+numpy==1.26.4
+pandas==2.2.3
+torch==2.5.1
+torchinfo==1.8.0
+torchviz==0.0.3
+tqdm==4.67.1

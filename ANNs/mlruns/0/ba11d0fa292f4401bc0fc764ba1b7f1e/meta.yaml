@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/ba11d0fa292f4401bc0fc764ba1b7f1e/artifacts
+deleted_time: 1746630773526
+end_time: 1746625165020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ba11d0fa292f4401bc0fc764ba1b7f1e
+run_name: bold-bear-456
+run_uuid: ba11d0fa292f4401bc0fc764ba1b7f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625149076
+status: 3
+tags: []
+user_id: Antoine

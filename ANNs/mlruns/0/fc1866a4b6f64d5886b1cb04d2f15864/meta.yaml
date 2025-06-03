@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/fc1866a4b6f64d5886b1cb04d2f15864/artifacts
+end_time: 1747819315598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc1866a4b6f64d5886b1cb04d2f15864
+run_name: redolent-trout-44
+run_uuid: fc1866a4b6f64d5886b1cb04d2f15864
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747819278522
+status: 3
+tags: []
+user_id: Antoine

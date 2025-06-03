@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/0c7c1e515339479fa6ad1c8d53ef17e4/artifacts
+end_time: 1746643975474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c7c1e515339479fa6ad1c8d53ef17e4
+run_name: treasured-whale-292
+run_uuid: 0c7c1e515339479fa6ad1c8d53ef17e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746643923481
+status: 3
+tags: []
+user_id: Antoine

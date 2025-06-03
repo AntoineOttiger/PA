@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/2a5882546c844c4ab274f5dc3765bb42/artifacts
+end_time: 1746641254273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a5882546c844c4ab274f5dc3765bb42
+run_name: capable-whale-56
+run_uuid: 2a5882546c844c4ab274f5dc3765bb42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746641120295
+status: 3
+tags: []
+user_id: Antoine

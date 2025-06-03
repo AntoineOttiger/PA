@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/53c95a8c5e124a0ab3dad30a310498fc/artifacts
+deleted_time: 1745853423415
+end_time: 1745677813741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 53c95a8c5e124a0ab3dad30a310498fc
+run_name: traveling-kit-119
+run_uuid: 53c95a8c5e124a0ab3dad30a310498fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745677808683
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/610a08c5db174e1f9c9c19cf4bc6fb70/artifacts
+end_time: 1747828263265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 610a08c5db174e1f9c9c19cf4bc6fb70
+run_name: welcoming-boar-263
+run_uuid: 610a08c5db174e1f9c9c19cf4bc6fb70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747828223870
+status: 3
+tags: []
+user_id: Antoine

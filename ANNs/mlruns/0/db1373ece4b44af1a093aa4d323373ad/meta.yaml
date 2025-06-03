@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/db1373ece4b44af1a093aa4d323373ad/artifacts
+end_time: 1747830652472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db1373ece4b44af1a093aa4d323373ad
+run_name: sincere-cat-324
+run_uuid: db1373ece4b44af1a093aa4d323373ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830581764
+status: 3
+tags: []
+user_id: Antoine

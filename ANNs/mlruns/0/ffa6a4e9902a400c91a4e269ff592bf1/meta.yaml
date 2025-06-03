@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/ffa6a4e9902a400c91a4e269ff592bf1/artifacts
+end_time: 1746640289287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffa6a4e9902a400c91a4e269ff592bf1
+run_name: loud-boar-604
+run_uuid: ffa6a4e9902a400c91a4e269ff592bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640261721
+status: 3
+tags: []
+user_id: Antoine

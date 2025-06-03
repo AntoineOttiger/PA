@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/35c2c6239c804d42b1fa9d830f5b1ad8/artifacts
+end_time: 1747822291089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35c2c6239c804d42b1fa9d830f5b1ad8
+run_name: upset-wren-320
+run_uuid: 35c2c6239c804d42b1fa9d830f5b1ad8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822179866
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/00711795fdf0493eb7891e124f4e5a32/artifacts
+end_time: 1747821543896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00711795fdf0493eb7891e124f4e5a32
+run_name: gregarious-fish-466
+run_uuid: 00711795fdf0493eb7891e124f4e5a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747821521858
+status: 3
+tags: []
+user_id: Antoine

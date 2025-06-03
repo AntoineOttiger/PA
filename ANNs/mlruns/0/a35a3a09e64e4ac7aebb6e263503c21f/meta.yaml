@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/a35a3a09e64e4ac7aebb6e263503c21f/artifacts
+end_time: 1746633446822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a35a3a09e64e4ac7aebb6e263503c21f
+run_name: righteous-skunk-586
+run_uuid: a35a3a09e64e4ac7aebb6e263503c21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746633418813
+status: 3
+tags: []
+user_id: Antoine

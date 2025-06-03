@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/ddfafabd5e0e4aa4b4da2b9de761b699/artifacts
+end_time: 1746631356261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddfafabd5e0e4aa4b4da2b9de761b699
+run_name: resilient-ox-830
+run_uuid: ddfafabd5e0e4aa4b4da2b9de761b699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746631341253
+status: 3
+tags: []
+user_id: Antoine

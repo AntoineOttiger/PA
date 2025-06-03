@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/2ca67f3ed50147d9b1719685c1a38521/artifacts
+end_time: 1746641533696
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ca67f3ed50147d9b1719685c1a38521
+run_name: thoughtful-ray-159
+run_uuid: 2ca67f3ed50147d9b1719685c1a38521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746641426415
+status: 3
+tags: []
+user_id: Antoine

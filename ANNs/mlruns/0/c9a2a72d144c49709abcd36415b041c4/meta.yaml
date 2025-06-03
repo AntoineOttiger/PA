@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c9a2a72d144c49709abcd36415b041c4/artifacts
+end_time: 1746639987382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9a2a72d144c49709abcd36415b041c4
+run_name: capricious-pig-804
+run_uuid: c9a2a72d144c49709abcd36415b041c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746639959684
+status: 3
+tags: []
+user_id: Antoine

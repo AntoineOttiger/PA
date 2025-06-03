@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/3e97b4d453844c0d970e1c923a7b591b/artifacts
+deleted_time: 1746630773526
+end_time: 1746625177668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3e97b4d453844c0d970e1c923a7b591b
+run_name: amusing-bug-452
+run_uuid: 3e97b4d453844c0d970e1c923a7b591b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625165028
+status: 3
+tags: []
+user_id: Antoine

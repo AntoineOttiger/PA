@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/e7521338359f48098fc17ddcfa3d201f/artifacts
+end_time: 1746639927913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7521338359f48098fc17ddcfa3d201f
+run_name: salty-bird-603
+run_uuid: e7521338359f48098fc17ddcfa3d201f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746639891272
+status: 3
+tags: []
+user_id: Antoine

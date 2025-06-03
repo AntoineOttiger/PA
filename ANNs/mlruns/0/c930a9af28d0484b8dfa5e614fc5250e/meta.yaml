@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c930a9af28d0484b8dfa5e614fc5250e/artifacts
+end_time: 1746626064689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c930a9af28d0484b8dfa5e614fc5250e
+run_name: righteous-duck-165
+run_uuid: c930a9af28d0484b8dfa5e614fc5250e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746626036952
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/640bfa5dcec84010b09022ec96b4c96e/artifacts
+end_time: 1746644676634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 640bfa5dcec84010b09022ec96b4c96e
+run_name: wistful-crab-566
+run_uuid: 640bfa5dcec84010b09022ec96b4c96e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746644627375
+status: 3
+tags: []
+user_id: Antoine

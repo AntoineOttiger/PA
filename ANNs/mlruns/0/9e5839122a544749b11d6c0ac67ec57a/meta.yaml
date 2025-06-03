@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/9e5839122a544749b11d6c0ac67ec57a/artifacts
+end_time: 1746640894431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e5839122a544749b11d6c0ac67ec57a
+run_name: worried-doe-198
+run_uuid: 9e5839122a544749b11d6c0ac67ec57a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640834318
+status: 3
+tags: []
+user_id: Antoine

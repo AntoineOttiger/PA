@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/39eeff6dd6194c2ab3430ec1ad9d09cc/artifacts
+end_time: 1746443413604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39eeff6dd6194c2ab3430ec1ad9d09cc
+run_name: intrigued-rook-850
+run_uuid: 39eeff6dd6194c2ab3430ec1ad9d09cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746443374253
+status: 3
+tags: []
+user_id: Antoine

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c7facd1b447843a9b3dcfc7a4fe4276f/artifacts
+end_time: 1747830266139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7facd1b447843a9b3dcfc7a4fe4276f
+run_name: receptive-pig-617
+run_uuid: c7facd1b447843a9b3dcfc7a4fe4276f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747830207115
+status: 3
+tags: []
+user_id: Antoine

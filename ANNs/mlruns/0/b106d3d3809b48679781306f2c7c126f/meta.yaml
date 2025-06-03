@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/b106d3d3809b48679781306f2c7c126f/artifacts
+deleted_time: 1745853423430
+end_time: 1745677303042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b106d3d3809b48679781306f2c7c126f
+run_name: respected-frog-784
+run_uuid: b106d3d3809b48679781306f2c7c126f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745677303004
+status: 4
+tags: []
+user_id: Antoine

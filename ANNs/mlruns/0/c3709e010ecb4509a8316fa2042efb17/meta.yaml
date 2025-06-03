@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c3709e010ecb4509a8316fa2042efb17/artifacts
+end_time: 1747829149579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3709e010ecb4509a8316fa2042efb17
+run_name: skittish-moth-990
+run_uuid: c3709e010ecb4509a8316fa2042efb17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747829097128
+status: 3
+tags: []
+user_id: Antoine

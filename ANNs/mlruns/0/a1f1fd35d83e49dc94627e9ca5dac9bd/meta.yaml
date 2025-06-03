@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/a1f1fd35d83e49dc94627e9ca5dac9bd/artifacts
+end_time: 1746645278848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1f1fd35d83e49dc94627e9ca5dac9bd
+run_name: burly-hound-540
+run_uuid: a1f1fd35d83e49dc94627e9ca5dac9bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746645090942
+status: 3
+tags: []
+user_id: Antoine

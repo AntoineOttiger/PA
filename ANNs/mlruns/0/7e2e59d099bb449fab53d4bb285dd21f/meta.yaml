@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/7e2e59d099bb449fab53d4bb285dd21f/artifacts
+end_time: 1747821854264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e2e59d099bb449fab53d4bb285dd21f
+run_name: dashing-turtle-22
+run_uuid: 7e2e59d099bb449fab53d4bb285dd21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747821816304
+status: 3
+tags: []
+user_id: Antoine

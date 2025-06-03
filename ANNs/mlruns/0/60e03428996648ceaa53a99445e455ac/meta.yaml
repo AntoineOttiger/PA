@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/60e03428996648ceaa53a99445e455ac/artifacts
+end_time: 1746640444030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60e03428996648ceaa53a99445e455ac
+run_name: melodic-bee-293
+run_uuid: 60e03428996648ceaa53a99445e455ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746640426548
+status: 3
+tags: []
+user_id: Antoine

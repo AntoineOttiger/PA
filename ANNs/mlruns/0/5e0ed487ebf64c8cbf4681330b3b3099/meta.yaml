@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/5e0ed487ebf64c8cbf4681330b3b3099/artifacts
+end_time: 1747820389150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e0ed487ebf64c8cbf4681330b3b3099
+run_name: redolent-lamb-18
+run_uuid: 5e0ed487ebf64c8cbf4681330b3b3099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747820361582
+status: 3
+tags: []
+user_id: Antoine

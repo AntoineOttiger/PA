@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/1d2617cd93b14413a168fdb38a8fde40/artifacts
+end_time: 1747822479522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d2617cd93b14413a168fdb38a8fde40
+run_name: whimsical-flea-140
+run_uuid: 1d2617cd93b14413a168fdb38a8fde40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822432483
+status: 3
+tags: []
+user_id: Antoine

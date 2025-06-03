@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/26c10c64258144609196f7c6e235effe/artifacts
+end_time: 1746643694210
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26c10c64258144609196f7c6e235effe
+run_name: classy-finch-206
+run_uuid: 26c10c64258144609196f7c6e235effe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746643665995
+status: 3
+tags: []
+user_id: Antoine

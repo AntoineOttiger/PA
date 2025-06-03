@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/930ff22906d2487e84a0a7e2273c8815/artifacts
+end_time: 1746631394131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 930ff22906d2487e84a0a7e2273c8815
+run_name: unleashed-skunk-157
+run_uuid: 930ff22906d2487e84a0a7e2273c8815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746631370067
+status: 3
+tags: []
+user_id: Antoine

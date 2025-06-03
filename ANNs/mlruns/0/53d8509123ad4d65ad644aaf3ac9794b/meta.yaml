@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/53d8509123ad4d65ad644aaf3ac9794b/artifacts
+end_time: 1746638009372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53d8509123ad4d65ad644aaf3ac9794b
+run_name: smiling-bee-277
+run_uuid: 53d8509123ad4d65ad644aaf3ac9794b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746638009306
+status: 4
+tags: []
+user_id: Antoine

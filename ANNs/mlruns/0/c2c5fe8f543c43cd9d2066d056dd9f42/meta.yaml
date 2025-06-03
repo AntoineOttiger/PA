@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Antoine/Documents/master/PA/abacus/sim_plaque/ANNs/mlruns/0/c2c5fe8f543c43cd9d2066d056dd9f42/artifacts
+end_time: 1747822671145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2c5fe8f543c43cd9d2066d056dd9f42
+run_name: marvelous-carp-314
+run_uuid: c2c5fe8f543c43cd9d2066d056dd9f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747822596121
+status: 3
+tags: []
+user_id: Antoine
